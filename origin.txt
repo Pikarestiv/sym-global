@@ -1,0 +1,2996 @@
+Uri: http://www.sym-global.com/
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\index.htm
+Content Type: text/html
+
+Uri: http://www.sym-global.com/storage/system/index/fashion02_2.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\fashion02_2.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/default/system/favicon.ico
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\default\system\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.sym-global.com/assets/frontend/css/style.css
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\css\style.css
+Content Type: text/css
+
+Uri: http://www.sym-global.com/about
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\about.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/scooter-7
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\scooter-7.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/scooter-8
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\scooter-8.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/scooter-9
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\scooter-9.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/scooter-10
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\scooter-10.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/bike-36
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\bike-36.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/bike-34
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\bike-34.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/bike-35
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\bike-35.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cub
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cub.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cub-40
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cub-40.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cub-48
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cub-48.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cub-49
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cub-49.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/e-scooter
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\e-scooter.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/global-distributors
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\global-distributors.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/product/compare
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\product\compare.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/maxsym-tl01
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\maxsym-tl01.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/hd-300
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\hd-300.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/drg-160
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\drg-160.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/jet14-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\jet14-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/orbitiii-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\orbitiii-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page121
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page121.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page120
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page120.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/contact
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\contact.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/faq
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\faq.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/gallery
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\gallery.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/catalogue
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\catalogue.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/site-map
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\site-map.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/privacy-policy
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\privacy-policy.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/storage/system/logo/SymLogo-S-red.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\logo\SymLogo-S-red.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/slide_play_btn.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\slide_play_btn.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/index/pro-box/Index_1500x1125px_Maxsym_TL.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\pro-box\Index_1500x1125px_Maxsym_TL.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/index/pro-box/hd-300-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\pro-box\hd-300-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/index/pro-box/index-probox02.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\pro-box\index-probox02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/index/pro-box/index-probox03.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\pro-box\index-probox03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/index/pro-box/index-probox04.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\pro-box\index-probox04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE_GREY.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE_GREY.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/SYMPHONY_MAT_GREY_BLACK_SEAT.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\SYMPHONY_MAT_GREY_BLACK_SEAT.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/color/DRGBT_BK-001UL-BLACK.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\color\DRGBT_BK-001UL-BLACK.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/125/01-JET-14_XC12W1-EU_R-010CA_Left-45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\125\01-JET-14_XC12W1-EU_R-010CA_Left-45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/index/series/URBAN/2_MASK.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\index\series\URBAN\2_MASK.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/distributors_map.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\distributors_map.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/slide_bttn_close_white.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\slide_bttn_close_white.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/1.0/frontend/javascript/plugins/jquery-3.2.1.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\1.0\frontend\javascript\plugins\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/1.0/frontend/javascript/plugins/validation-engine/languages/jquery.validationEngine-en-US.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\1.0\frontend\javascript\plugins\validation-engine\languages\jquery.validationEngine-en-US.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/1.0/frontend/javascript/plugins/validation-engine/jquery.validationEngine.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\1.0\frontend\javascript\plugins\validation-engine\jquery.validationEngine.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/plugins/plugins.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\plugins\plugins.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/default.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\default.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/device.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\device.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/parallax.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\parallax.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/wow.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\wow.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/jquery.mb.YTPlayer.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/owl.carousel.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/swiper.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/TweenMax.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/ScrollMagic.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\ScrollMagic.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/debug.addIndicators.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\debug.addIndicators.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/animation.gsap.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\animation.gsap.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/circlr.min.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\circlr.min.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/custom/main.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\custom\main.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-brands-400.woff2
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-brands-400.woff
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-brands-400.woff
+Content Type: font/x-woff
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-regular-400.woff
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-regular-400.woff
+Content Type: font/x-woff
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-regular-400.ttf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-regular-400.svg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-solid-900.woff2
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.sym-global.com/assets/frontend/fonts/fa-solid-900.woff
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\fonts\fa-solid-900.woff
+Content Type: font/x-woff
+
+Uri: http://www.sym-global.com/assets/frontend/images/footer_bg.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\footer_bg.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/loading.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\loading.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/slide_bttn_left.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\slide_bttn_left.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/sym_op_text.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\sym_op_text.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/grey_bg.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\grey_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/assets/frontend/images/slide_bttn_left_white.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\slide_bttn_left_white.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/view360_bg.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\view360_bg.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/360icon.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\360icon.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/product_video_bg.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\product_video_bg.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/assets/frontend/images/about-img-bg.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\about-img-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/assets/frontend/images/error_bg.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\error_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/about/about-banner.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/about/about-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-02.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-02.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/2019EICMA_191106_0022.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\2019EICMA_191106_0022.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/about/about-04.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-04.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-g-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-g-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-g-02.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-g-02.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-g-03.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-g-03.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-g-04.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-g-04.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/about-g-05.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\about-g-05.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/about/SYM_MAXSYM_TL-118.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\SYM_MAXSYM_TL-118.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/about/e-scooter.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\about\e-scooter.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/top_banner2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\top_banner2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/fiddle
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-125-liquid
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-125-liquid.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-200
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-200.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/maxsym-tl
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\maxsym-tl.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/maxsym
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\maxsym.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/maxsym-400i-abs
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\maxsym-400i-abs.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/maxsym-600i-abs
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\maxsym-600i-abs.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cruisym
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cruisym.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cruisym-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cruisym-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cruisym-250i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cruisym-250i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cruisym-300i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cruisym-300i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joymaxz
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joymaxz.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joymaxz125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joymaxz125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joymaxz-250
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joymaxz-250.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joymaxz-300
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joymaxz-300.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/hd300
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\hd300.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joyride-s
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joyride-s.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joyrides125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joyrides125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/joyrides-200i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\joyrides-200i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/jet14
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\jet14.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/jet14-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\jet14-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/jet14-125i-liquid
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\jet14-125i-liquid.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/jet14-200i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\jet14-200i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-s
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-s.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-s-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-s-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-s-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-s-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-st
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-st.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-st-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-st-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-st-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-st-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-st-125iliquid
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-st-125iliquid.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-st-200i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-st-200i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-sr
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-sr.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-sr-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-sr-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symphony-sr-200
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symphony-sr-200.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/mio
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\mio.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/mio-50i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\mio-50i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/mio-115
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\mio-115.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-ii
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-ii.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-ii-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-ii-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-iii
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-iii.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-iii-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-iii-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddleiii-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddleiii-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fiddle-iii-200i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fiddle-iii-200i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fnx
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fnx.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/fnx125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\fnx125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/crox
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\crox.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/crox-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\crox-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/crox-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\crox-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/orbit-iii
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\orbit-iii.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/orbit-iii-50
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\orbit-iii-50.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/x-pro
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\x-pro.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/xpro-125i
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\xpro-125i.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnhx
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnhx.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnh-x-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnh-x-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnhx-125-product46
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnhx-125-product46.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnht
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnht.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnh-t-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnh-t-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/symnht-200
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\symnht-200.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/vf-185
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\vf-185.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/vf-125
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\vf-125.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/cub-40-product51
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\cub-40-product51.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/vf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\vf.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/e-scooter-product53
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\e-scooter-product53.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page119
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page119.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page118
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page118.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page117
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page117.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page115
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page115.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page114
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page114.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page113
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page113.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page104
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page104.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page105
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page105.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page101
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page101.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page99
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page99.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page98
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page98.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page97
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page97.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page94
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page94.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page88
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page88.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page87
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page87.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page85
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page85.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page84
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page84.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page83
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page83.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page86
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page86.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page89
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page89.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page82
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page82.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page78
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page78.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events?page=2
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-1.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/assets/frontend/images/slide_bttn_close_gray.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\slide_bttn_close_gray.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/product-banner.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\product-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/new-03.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\new-03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/new-04.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\new-04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/FrontForkSuspension_re.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\FrontForkSuspension_re.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/rear_suspension.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\rear_suspension.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/01.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/new-05.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\new-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/new-06.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\new-06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/front-compartment_re.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\front-compartment_re.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/detail/windscreen.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\detail\windscreen.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/download/TL47W1-EU20191128.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\download\TL47W1-EU20191128.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/color/Black-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\color\Black-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/color/Blue-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\color\Blue-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/color/Gray-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\color\Gray-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/color/white-01.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\color\white-01.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-01.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-02.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-03.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-04.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-05.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-06.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/18-MAXSYM-TL/features/content/maxsym-tl-07.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\18-MAXSYM-TL\features\content\maxsym-tl-07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/assets/frontend/images/download_icon.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\images\download_icon.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/background/urban-1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\urban-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/features/detail/01-A-hook-is-at-your-service-when-you-are-looking-for-something-to-hang-your-bag.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\features\detail\01-A-hook-is-at-your-service-when-you-are-looking-for-something-to-hang-your-bag.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/features/detail/02-Speedometer.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\features\detail\02-Speedometer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/features/detail/03-There-is-a-QC20-charger-inside-so-you-dont-have-to-worry-if-your-phone-needs-to-be-charged-on-the-road.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\features\detail\03-There-is-a-QC20-charger-inside-so-you-dont-have-to-worry-if-your-phone-needs-to-be-charged-on-the-road.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/features/detail/04-LED-headlight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\features\detail\04-LED-headlight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/color/Front45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\color\Front45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/color/LH1-BR-497UL.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\color\LH1-BR-497UL.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/color/LH1-GY010U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\color\LH1-GY010U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/15-HD300/color/LH1-WH-300P.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\15-HD300\color\LH1-WH-300P.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/banner/banner1920x750.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\banner\banner1920x750.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_INNER_BOX.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_INNER_BOX.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_KEY_SET.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_KEY_SET.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_LCD_METER.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_LCD_METER.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_SEAT.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_SEAT.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_STORAGE_SPACE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_STORAGE_SPACE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE800X700.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE800X700.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE_WH-8028P.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE_WH-8028P.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE_WH-8028P_redseat.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE_WH-8028P_redseat.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE-BK-7C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE-BK-7C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE_MAT_BLUE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE_MAT_BLUE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_MAT_BLUE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_MAT_BLUE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/features/FIDDLE_GREY_RIGHT45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\features\FIDDLE_GREY_RIGHT45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/banner/fashion3.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\banner\fashion3.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_DOUBLE_REAR_SUSPENSION.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_DOUBLE_REAR_SUSPENSION.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_INNER_BOX.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_INNER_BOX.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_LED_headlight.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_LED_headlight.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_USB_SOCKET.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_USB_SOCKET.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/SYMPHONY_GREY_RED_SEAT_800X700.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\SYMPHONY_GREY_RED_SEAT_800X700.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/SYMPHONY_MAT_BROWN_TOP_CASE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\SYMPHONY_MAT_BROWN_TOP_CASE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/SYMPHONY_MAT_GREY_RED_SEAT_TOP_CASE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\SYMPHONY_MAT_GREY_RED_SEAT_TOP_CASE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/symphony_emblem.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\symphony_emblem.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_MAT_GREY.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_MAT_GREY.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/features/SYMPHONY_TOP_CASE_RIGHT45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\features\SYMPHONY_TOP_CASE_RIGHT45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/banner/DRG_Banner.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\banner\DRG_Banner.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_FRVIEW.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_FRVIEW.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_FRWheel.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_FRWheel.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_HazardLight.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_HazardLight.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_Headlight.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_Headlight.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_Luggagebox.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_Luggagebox.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_Meter.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_Meter.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_Taillight.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_Taillight.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/features/DRGBT_Mono-suspension.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\features\DRGBT_Mono-suspension.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/color/DRGBT_WH-305P-WHITE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\color\DRGBT_WH-305P-WHITE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/color/DRGBT_GN-350S-GREEN.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\color\DRGBT_GN-350S-GREEN.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/color/DRGBT_GY-008C-GREY.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\color\DRGBT_GY-008C-GREY.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/color/DRG.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\color\DRG.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/others/ALEH.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\others\ALEH.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/21-DRGBT/others/ZRSG.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\21-DRGBT\others\ZRSG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/01-JET-14_Floor-panel.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\01-JET-14_Floor-panel.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/02-JET-14_Meter_air-version.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\02-JET-14_Meter_air-version.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/03-JET-14-Muffler.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\03-JET-14-Muffler.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/04-JET-14_Luggage-box-with-helmet.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\04-JET-14_Luggage-box-with-helmet.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/05-Seat--Sport-Style-Body-Design.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\05-Seat--Sport-Style-Body-Design.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/detail/06-Front-Disk--260mm-Front-Brake-Disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\detail\06-Front-Disk--260mm-Front-Brake-Disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/features/detail/JET14USBsocket.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\features\detail\JET14USBsocket.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/download/JET-14-125i-Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\download\JET-14-125i-Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/download/JET-14-Users-Manual.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\download\JET-14-Users-Manual.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/125/02-JET-14_XC12W1-EU_BK-007U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\125\02-JET-14_XC12W1-EU_BK-007U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/125/03-JET-14_XC12W1-EU_BR-497U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\125\03-JET-14_XC12W1-EU_BR-497U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/125/04-JET-14_XC12W1-EU_WH-006_Left-45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\125\04-JET-14_XC12W1-EU_WH-006_Left-45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/125/05-JET-14_XC20W1-EU_GY-010U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\125\05-JET-14_XC20W1-EU_GY-010U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/content/01-JET-14_HeadLight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\content\01-JET-14_HeadLight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/features/content/02-JET-14_TailLight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\features\content\02-JET-14_TailLight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/urban_fashion2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\urban_fashion2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/detail/01-ORBIT-III_XE12W1-EU_FR_disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\detail\01-ORBIT-III_XE12W1-EU_FR_disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/detail/02-ORBIT-III_XE12W1-EU_Headlight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\detail\02-ORBIT-III_XE12W1-EU_Headlight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/detail/03-ORBIT-III_XE12W1-EU_Tailight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\detail\03-ORBIT-III_XE12W1-EU_Tailight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/color/Orbit-III_XE05W1-EU_BK-007U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\color\Orbit-III_XE05W1-EU_BK-007U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/color/Orbit-III_XE05W1-EU_R-010CA.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\color\Orbit-III_XE05W1-EU_R-010CA.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/color/Orbit-III_XE05W1-EU_WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\color\Orbit-III_XE05W1-EU_WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/color/Orbit-III_GY-517S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\color\Orbit-III_GY-517S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/content/01-orbit-iii-all-color.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\content\01-orbit-iii-all-color.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/content/02-ORBIT-III_XE12W1-EU_luggage-box.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\content\02-ORBIT-III_XE12W1-EU_luggage-box.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/08-Orbit-III/features/content/03-Orbit-III_XE12W1-EU_filler-cap.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\08-Orbit-III\features\content\03-Orbit-III_XE12W1-EU_filler-cap.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/about-sym
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\about-sym.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/storage/system/news/2020-09-09/SYM-nummer-1-augustus.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-09-09\SYM-nummer-1-augustus.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-09-09/Fiddle3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-09-09\Fiddle3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-09-09/BU3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-09-09\BU3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-06-15/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-06-15\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-06-15/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-06-15\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-06-15/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-06-15\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-06-15/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-06-15\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/contact.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\contact.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/contentCategories/faq.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\contentCategories\faq.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/assets/frontend/javascript/contentCategories/gallery.js
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\assets\frontend\javascript\contentCategories\gallery.js
+Content Type: application/javascript
+
+Uri: http://www.sym-global.com/storage/system/catalogue/2020_SYM_Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\catalogue\2020_SYM_Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/catalogue/2019-Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\catalogue\2019-Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/catalogue/2018-Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\catalogue\2018-Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/22-Fiddle-LC/Features/fr-disc.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\22-Fiddle-LC\Features\fr-disc.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/22-Fiddle-LC/Features/Hazard-light-button.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\22-Fiddle-LC\Features\Hazard-light-button.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/22-Fiddle-LC/Features/Liquid-cooling.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\22-Fiddle-LC\Features\Liquid-cooling.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/22-Fiddle-LC/Features/Muffler.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\22-Fiddle-LC\Features\Muffler.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/22-Fiddle-LC/Features/rear-disc.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\22-Fiddle-LC\Features\rear-disc.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/19-FIDDLE/color/FIDDLE_BK-007U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\19-FIDDLE\color\FIDDLE_BK-007U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/01-Front-Double-Disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\01-Front-Double-Disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/02-Multiple-LCD-speedometer.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\02-Multiple-LCD-speedometer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/03-Luggage-box-with2fullfacehelmets.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\03-Luggage-box-with2fullfacehelmets.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/04.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/05-Dual-LED-Matrix-Taillights.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\05-Dual-LED-Matrix-Taillights.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/06-Seat-Open-Combined-into-Main-Switch.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\06-Seat-Open-Combined-into-Main-Switch.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/400/07-Foldable-Foot-Step.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\400\07-Foldable-Foot-Step.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/download/MAXSYM400i-Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\download\MAXSYM400i-Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/color/Maxsym_400i_LX40A4_GY-517S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\color\Maxsym_400i_LX40A4_GY-517S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/color/LX60A4-EU_BR-497UL_BK-001C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\color\LX60A4-EU_BR-497UL_BK-001C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/color/LX60A4-EU_WH-300P_BK-001C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\color\LX60A4-EU_WH-300P_BK-001C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/color/Maxsym_400i_LX40A4_BK-001UL_BK-001C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\color\Maxsym_400i_LX40A4_BK-001UL_BK-001C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/color/LX60A4-EU_GY-010UL_BK-001C_45_degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\color\LX60A4-EU_GY-010UL_BK-001C_45_degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/01.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/02.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/03.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/04.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/05.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/16-MAXSYM/features/detail/600/LX60A4-EU_Muffler.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\16-MAXSYM\features\detail\600\LX60A4-EU_Muffler.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/01-Adventure-beak-image.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\01-Adventure-beak-image.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/02-LED-Tail-Light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\02-LED-Tail-Light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/03-LCD-Dashboard.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\03-LCD-Dashboard.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/04-Foldable-rearview-mirrors-combined-with-high-power-LED-signal-lights-create-unique-identity.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\04-Foldable-rearview-mirrors-combined-with-high-power-LED-signal-lights-create-unique-identity.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/05-word.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\05-word.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/06-Filler-Cap-is-unlocked-through-7-in-1-Magnet-key-set.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\06-Filler-Cap-is-unlocked-through-7-in-1-Magnet-key-set.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/07-Glove_box-12V-USB.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\07-Glove_box-12V-USB.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/08-Luggage-box-fit-For-two-full-face-helmets.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\08-Luggage-box-fit-For-two-full-face-helmets.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/detail/09-Rear-Suspension-with-New-Style-Muffler.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\detail\09-Rear-Suspension-with-New-Style-Muffler.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/download/CRUiSYM250_300Catalogue.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\download\CRUiSYM250_300Catalogue.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/color/CRUiSYM-125_LV12W1-EU_BK-001UL_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\color\CRUiSYM-125_LV12W1-EU_BK-001UL_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/color/CRUiSYM-125_LV12W1-EU_GY-7450U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\color\CRUiSYM-125_LV12W1-EU_GY-7450U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/color/CRUiSYM-125_LV12W1-EU_R-010CA_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\color\CRUiSYM-125_LV12W1-EU_R-010CA_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/color/CRUiSYM-125_LV12W1-EU_WH-300P_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\color\CRUiSYM-125_LV12W1-EU_WH-300P_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/content/01-CRUISYM-eDM_A4_FA-01.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\content\01-CRUISYM-eDM_A4_FA-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/content/02-Unique-identity-on-Front-View.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\content\02-Unique-identity-on-Front-View.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/content/03-Front-Wheel-Disk-260mm-ABS.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\content\03-Front-Wheel-Disk-260mm-ABS.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/12-CRUiSYM/features/content/04-Adjustable-Windshield.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\12-CRUiSYM\features\content\04-Adjustable-Windshield.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/freedom3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\freedom3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/01-Adjustable-windshield.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\01-Adjustable-windshield.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/02-Headlight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\02-Headlight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/03-LED-Tail-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\03-LED-Tail-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/04-Compact-Body-Design.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\04-Compact-Body-Design.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/05-Luggage-Box-Fits-Two-Full-Face-Helmet.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\05-Luggage-Box-Fits-Two-Full-Face-Helmet.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/06-Meter.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\06-Meter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/07-Suspension-and-exhaust-pipe.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\07-Suspension-and-exhaust-pipe.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/08-Rear-tire.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\08-Rear-tire.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/09-rear-carrier.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\09-rear-carrier.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/10-Seat.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\10-Seat.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/detail/11-USB-Charger.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\detail\11-USB-Charger.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/color/Joymax-Z-Blue-45-left.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\color\Joymax-Z-Blue-45-left.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/color/LW25_30-BK-001U-left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\color\LW25_30-BK-001U-left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/color/LW25_30-GY-0101U-left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\color\LW25_30-GY-0101U-left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/color/LW25_30-R-010CA-left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\color\LW25_30-R-010CA-left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/color/LW25_30-WH-300P-left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\color\LW25_30-WH-300P-left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/content/LW25_30-WH-300P-right45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\content\LW25_30-WH-300P-right45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/content/right-90.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\content\right-90.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/content/Joymaxz-1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\content\Joymaxz-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/11-JOYMAX-Z/features/content/ceramic.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\11-JOYMAX-Z\features\content\ceramic.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/freedom.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\freedom.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/freedom2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\freedom2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/features/detail/Speedometer.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\features\detail\Speedometer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/download/JOYRIDE-EVO125-200i.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\download\JOYRIDE-EVO125-200i.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/color/WH-300P.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\color\WH-300P.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/color/LF12W2-EU_BK-001UL_45_dgree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\color\LF12W2-EU_BK-001UL_45_dgree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/color/GY-7450U_GY-010UL.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\color\GY-7450U_GY-010UL.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/color/BK-433S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\color\BK-433S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/features/content/01-LF18W2-EU_WH-300P-GY-010UL_headlight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\features\content\01-LF18W2-EU_WH-300P-GY-010UL_headlight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/13-JOYRIDE-S/features/content/02-20130912050903.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\13-JOYRIDE-S\features\content\02-20130912050903.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/50/01-JET-14_XC12W1-EU_R-010CA_Left-45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\50\01-JET-14_XC12W1-EU_R-010CA_Left-45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/50/02-JET-14_XC12W1-EU_BK-007U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\50\02-JET-14_XC12W1-EU_BK-007U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/50/03-JET-14_XC12W1-EU_BR-497U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\50\03-JET-14_XC12W1-EU_BR-497U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/50/04-JET-14_XC12W1-EU_WH-006_Left-45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\50\04-JET-14_XC12W1-EU_WH-006_Left-45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-Jet-14/color/50/05-JET-14_XC20W1-EU_GY-010U_45-degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-Jet-14\color\50\05-JET-14_XC20W1-EU_GY-010U_45-degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/features/detail/07-JET-14_Meter_Liquid-version.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\features\detail\07-JET-14_Meter_Liquid-version.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WW-blue.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WW-blue.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WW-brown.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WW-brown.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WW-mat-BK.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WW-mat-BK.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WW-red.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WW-red.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WW-white.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WW-white.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/01-1-Jet-14-Liquid/color/XC12WY-EU-right-45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\01-1-Jet-14-Liquid\color\XC12WY-EU-right-45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/background/e-scooter2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\e-scooter2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/detail/01-Symphony-S_AY05W8-EU_AY12W8-EU_FR-DISK.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\detail\01-Symphony-S_AY05W8-EU_AY12W8-EU_FR-DISK.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/detail/02-Symphony-S_AY05W8-EU_AY12W8-EU_Muffler.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\detail\02-Symphony-S_AY05W8-EU_AY12W8-EU_Muffler.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/detail/03-Digital-speedometer.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\detail\03-Digital-speedometer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/detail/04-Luggage-box.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\detail\04-Luggage-box.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/color/50/01-Symphony-S_AY05W8-EU_AY12W8-EU_BK-007U_Red-Seat.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\color\50\01-Symphony-S_AY05W8-EU_AY12W8-EU_BK-007U_Red-Seat.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/color/50/02-Symphony-S_AY05W8-EU_AY12W8-EU_GY-010U_red-seat.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\color\50\02-Symphony-S_AY05W8-EU_AY12W8-EU_GY-010U_red-seat.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/color/50/03-Symphony-S_AY05W8-EU_AY12W8-EU_GY-419S_Black-Seat.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\color\50\03-Symphony-S_AY05W8-EU_AY12W8-EU_GY-419S_Black-Seat.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/color/50/04-Symphony-S_AY05W8-EU_AY12W8-EU_WH-006_Black-Seat.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\color\50\04-Symphony-S_AY05W8-EU_AY12W8-EU_WH-006_Black-Seat.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/content/20130811040812.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\content\20130811040812.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/02-SYMPHONY-S/features/content/20130811040832.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\02-SYMPHONY-S\features\content\20130811040832.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/fashion.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\fashion.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/01-turn-signal.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\01-turn-signal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/02-USB-socket.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\02-USB-socket.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/03-luggage.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\03-luggage.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/04-Symphony-ST-XB12W1-EU--disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\04-Symphony-ST-XB12W1-EU--disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/05-Symphony-ST-XB12W1-EU--exhaust-pipe.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\05-Symphony-ST-XB12W1-EU--exhaust-pipe.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/06-Symphony-ST-XB12W1-EU--rear-handrail.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\06-Symphony-ST-XB12W1-EU--rear-handrail.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/07-Symphony-ST-XB12W1-EU--seat-open.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\07-Symphony-ST-XB12W1-EU--seat-open.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/detail/08-Symphony-ST-rear-suspension.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\detail\08-Symphony-ST-rear-suspension.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/download/Symphony-ST.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\download\Symphony-ST.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/50/01-BK-001C_R-010CA.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\50\01-BK-001C_R-010CA.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/50/02-BK-007C_S-882U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\50\02-BK-007C_S-882U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/50/03-BK-7C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\50\03-BK-7C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/50/04-BU-280S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\50\04-BU-280S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/50/05-WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\50\05-WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/content/01-meter.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\content\01-meter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/features/content/02-tail-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\features\content\02-tail-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/125i-Liquid/BK-007C_S-882U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\125i-Liquid\BK-007C_S-882U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/125i-Liquid/BK-7C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\125i-Liquid\BK-7C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/03-SYMPHONY-ST/color/125i-Liquid/WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\03-SYMPHONY-ST\color\125i-Liquid\WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/features/detail/01-New-modified-engine.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\features\detail\01-New-modified-engine.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/features/detail/02-Rear-suspension.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\features\detail\02-Rear-suspension.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/features/detail/03-Rear-Disk.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\features\detail\03-Rear-Disk.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/download/SYMPHONY-SR-125-150-Series.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\download\SYMPHONY-SR-125-150-Series.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/color/BK-007U-with-red-seat_left-45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\color\BK-007U-with-red-seat_left-45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/color/BR-497UL-with-black-seat_left-45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\color\BR-497UL-with-black-seat_left-45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/color/GY-010U-with-red-seat_left-45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\color\GY-010U-with-red-seat_left-45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/color/WH-006-with-black-seat_left-45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\color\WH-006-with-black-seat_left-45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/14-SYMPHONY-SR/features/content/GY-010U-with-red-seat_left.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\14-SYMPHONY-SR\features\content\GY-010U-with-red-seat_left.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/detail/01-LCD-Digital-display.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\detail\01-LCD-Digital-display.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/detail/02-Multi-functional-Key-set.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\detail\02-Multi-functional-Key-set.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/detail/03-160-mm-Fr-Disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\detail\03-160-mm-Fr-Disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/detail/04-Special-shape-pattern-on-saddle-design-for-Mat-Grey-color-only.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\detail\04-Special-shape-pattern-on-saddle-design-for-Mat-Grey-color-only.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/detail/05-Space-for-one-open-faced-helmet-plus-others.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\detail\05-Space-for-one-open-faced-helmet-plus-others.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/color/50/MIO50-BU-280S_S-481S-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\color\50\MIO50-BU-280S_S-481S-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/color/50/MIO50-GY-7450U_BK-001C-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\color\50\MIO50-GY-7450U_BK-001C-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/color/50/MIO50-R-086_S-481S-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\color\50\MIO50-R-086_S-481S-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/color/50/MIO50-WH-8018P_BK-001C-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\color\50\MIO50-WH-8018P_BK-001C-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/content/01-LED-Taillight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\content\01-LED-Taillight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/features/content/02-Diamond-shaped-headlight-and-LED-position-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\features\content\02-Diamond-shaped-headlight-and-LED-position-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/download/MIO-115.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\download\MIO-115.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/115/colors/Blue.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\115\colors\Blue.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/115/colors/black1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\115\colors\black1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/115/colors/red.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\115\colors\red.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/04-MIO/115/colors/WH1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\04-MIO\115\colors\WH1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/05-FIDDLE-II/color/50/FIDDLE-II-50_AF05W4-EU_NL_BK-007U_BK-5560S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\05-FIDDLE-II\color\50\FIDDLE-II-50_AF05W4-EU_NL_BK-007U_BK-5560S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/05-FIDDLE-II/color/50/FIDDLE-II-50_AF05W4-EU_NL_GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\05-FIDDLE-II\color\50\FIDDLE-II-50_AF05W4-EU_NL_GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/05-FIDDLE-II/color/50/FIDDLEII-50-BK-7C-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\05-FIDDLE-II\color\50\FIDDLEII-50-BK-7C-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/05-FIDDLE-II/color/50/FIDDLEII-50-GY-419S-LEFT45-black-rear-view-mirrors.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\05-FIDDLE-II\color\50\FIDDLEII-50-GY-419S-LEFT45-black-rear-view-mirrors.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/features/detail/01-LED-Position-Light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\features\detail\01-LED-Position-Light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/features/detail/02-Speedometer.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\features\detail\02-Speedometer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/features/detail/03-Muffler-Protector.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\features\detail\03-Muffler-Protector.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/download/FIDDLEIII.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\download\FIDDLEIII.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_BK-007U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_BK-007U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_BR-497U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_BR-497U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_BU-280S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_BU-280S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_BU-2957C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_BU-2957C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_R-086_WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_R-086_WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/06-FIDDLE-III/color/50/XA05-XA12-XA20W4-EU-Fiddle-III_WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\06-FIDDLE-III\color\50\XA05-XA12-XA20W4-EU-Fiddle-III_WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/01-FNX-Headlight.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\01-FNX-Headlight.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/02-FNX-LCD-meter.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\02-FNX-LCD-meter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/03-FNX-Tail-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\03-FNX-Tail-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/04-FNX-Key-set.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\04-FNX-Key-set.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/05-FNX-compartment.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\05-FNX-compartment.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/detail/06-FNX-USB-slot.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\detail\06-FNX-USB-slot.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/color/FNX-BU-295S_GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\color\FNX-BU-295S_GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/color/FNX-BU-300S_S-880S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\color\FNX-BU-300S_S-880S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/color/FNX-FR-LEFT45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\color\FNX-FR-LEFT45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/color/FNX-WH-006_BR-435S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\color\FNX-WH-006_BR-435S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/color/FNX-WH-006_R-1788CA.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\color\FNX-WH-006_R-1788CA.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/01-ALEH-1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\01-ALEH-1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/02-ALEH-2.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\02-ALEH-2.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/03-2018FNXfeature1_800.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\03-2018FNXfeature1_800.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/04-led-4_800.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\04-led-4_800.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/05-2018FNXfeature3_800.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\05-2018FNXfeature3_800.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/06-open_800.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\06-open_800.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/07-2018FNXfeature6_800.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\07-2018FNXfeature6_800.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/10-FNX-125/features/content/08-usb_800.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\10-FNX-125\features\content\08-usb_800.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/detail/01-Muffler-Protector.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\detail\01-Muffler-Protector.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/detail/02-Rear-Disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\detail\02-Rear-Disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/detail/03-Rear-Suspension.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\detail\03-Rear-Suspension.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/download/CROX.pdf
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\download\CROX.pdf
+Content Type: application/pdf
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROX_AE05WA-EU_BK-007U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROX_AE05WA-EU_BK-007U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROX_AE05WA-EU_R-086_BK-5560S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROX_AE05WA-EU_R-086_BK-5560S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROX_AE05WA-EU_WH-8018P_GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROX_AE05WA-EU_WH-8018P_GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROX_AE12WB-EU_WH-8018P.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROX_AE12WB-EU_WH-8018P.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROXAE05W6-RU-BK-5560-GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROXAE05W6-RU-BK-5560-GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/color/CROX_AE12WB-EU_BU-300S_GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\color\CROX_AE12WB-EU_BU-300S_GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/content/01-Dual-colors-speedometer-cover-and-16-changeable-colors-of-LCD-speedometer-display.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\content\01-Dual-colors-speedometer-cover-and-16-changeable-colors-of-LCD-speedometer-display.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/content/03-Wave-disc-with-12-off-road-tire.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\content\03-Wave-disc-with-12-off-road-tire.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/07-CROX/features/content/02-Headlight-and-LED-position-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\07-CROX\features\content\02-Headlight-and-LED-position-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/color/XPRO_AE12WC-EU_WH-8018P_45_degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\color\XPRO_AE12WC-EU_WH-8018P_45_degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/color/XPRO_AE12WC-EU_BK-5560S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\color\XPRO_AE12WC-EU_BK-5560S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/color/XPRO_AE12WC-EU_R-010CA.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\color\XPRO_AE12WC-EU_R-010CA.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/features/content/01-XPRO-Rear-twin-suspension.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\features\content\01-XPRO-Rear-twin-suspension.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/features/content/03-XPRO-Seat-and-rear-carrier-for-cargos.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\features\content\03-XPRO-Seat-and-rear-carrier-for-cargos.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/17-XPRO/features/content/02-XPRO-front-disc-and-tire.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\17-XPRO\features\content\02-XPRO-front-disc-and-tire.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/background/Adventure-1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\background\Adventure-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features/REAR_VIEW.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features\REAR_VIEW.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features/TAILLIGHT.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features\TAILLIGHT.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color/ME12B1-EU-GY-7450U.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color\ME12B1-EU-GY-7450U.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color/ME12B1-EU-R-187U-left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color\ME12B1-EU-R-187U-left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color/ME12B1-EU-S-481S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color\ME12B1-EU-S-481S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color/ME12B1-EU-WH-006.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color\ME12B1-EU-WH-006.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features/FRONT_VIEW.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features\FRONT_VIEW.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features/METER.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features\METER.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_Front_Turn_Signal_Light.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_Front_Turn_Signal_Light.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_headlight_off.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_headlight_off.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_headlight_on.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_headlight_on.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_Radiator_liquid_cooling.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_Radiator_liquid_cooling.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_Rear_Turn_Signal_Light.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_Rear_Turn_Signal_Light.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_taillight_off.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_taillight_off.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/features_SYMNHX_200/ME20BW-ZA_taillight_on.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\features_SYMNHX_200\ME20BW-ZA_taillight_on.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color_SYMNHX_200/ME20BW-ZA_S-481S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color_SYMNHX_200\ME20BW-ZA_S-481S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color_SYMNHX_200/ME20BW-ZA_R-086.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color_SYMNHX_200\ME20BW-ZA_R-086.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/01-SYMNH-X/color_SYMNHX_200/ME20BW-ZA_BU-289S.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\01-SYMNH-X\color_SYMNHX_200\ME20BW-ZA_BU-289S.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/SYMNH-T_200_FR_disc_ABS.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\SYMNH-T_200_FR_disc_ABS.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/SYMNH-T_200_meter_tank_top_view.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\SYMNH-T_200_meter_tank_top_view.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/SYMNH-T_200_RR_disc_ABS.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\SYMNH-T_200_RR_disc_ABS.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color/SYMNH-T_125_BK-001C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color\SYMNH-T_125_BK-001C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color/SYMNH-T_200_BK-7C.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color\SYMNH-T_200_BK-7C.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/01-meter.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\01-meter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/Front_LED_Light_with_Beak.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\Front_LED_Light_with_Beak.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/features/tail-light.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\features\tail-light.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color_SYMNHT_200/black_45_degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color_SYMNHT_200\black_45_degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color_SYMNHT_200/CAMO_45_degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color_SYMNHT_200\CAMO_45_degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color_SYMNHT_200/red_45_degree.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color_SYMNHT_200\red_45_degree.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/BIKE/02-SYMNH-T/color/SYMNH-T-BU-289S-FR-LEFT45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\BIKE\02-SYMNH-T\color\SYMNH-T-BU-289S-FR-LEFT45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/01-Engine.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\01-Engine.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/02-headlight-on.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\02-headlight-on.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/03-Headlight-off.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\03-Headlight-off.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/04-keyhole.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\04-keyhole.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/05-rear-disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\05-rear-disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/color/YELLOWBALCK45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\color\YELLOWBALCK45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/color/GOLD45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\color\GOLD45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/color/BLUE45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\color\BLUE45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/color/RED45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\color\RED45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/color/SILVER45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\color\SILVER45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/front-disc.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\front-disc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/rear-tire.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\rear-tire.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/01-VF185/festures/meter.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\01-VF185\festures\meter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/02-VF125/features/rrtire.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\02-VF125\features\rrtire.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/Speedometer.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\Speedometer.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/SCOOTER/20-SYMPHONY/color/storage.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\SCOOTER\20-SYMPHONY\color\storage.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/02-VF125/color/BLACKWH.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\02-VF125\color\BLACKWH.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/02-VF125/color/BLUE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\02-VF125\color\BLUE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/02-VF125/color/RED.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\02-VF125\color\RED.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/02-VF125/color/WHITE.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\02-VF125\color\WHITE.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/03-VF3i185LE/color/Black.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\03-VF3i185LE\color\Black.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/CUB/03-VF3i185LE/video/VF3i185LEv2.mp4
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\CUB\03-VF3i185LE\video\VF3i185LEv2.mp4
+Content Type: video/mp4
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Color/shutterstock_770705206.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Color\shutterstock_770705206.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Features/LCDMeter.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Features\LCDMeter.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Features/USB.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Features\USB.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Features/storgespace.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Features\storgespace.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Color/left45.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Color\left45.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/products/E-SCOOTER/01-EX-pro/Color/800700red.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\products\E-SCOOTER\01-EX-pro\Color\800700red.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-04-07/1.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-04-07\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-04-07/3.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-04-07\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-04-07/2.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-04-07\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-04-07/4.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-04-07\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-04-07/5.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-04-07\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/5f485efc-747a-43bd-9f18-c1cbb2465aa6.MP4
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\5f485efc-747a-43bd-9f18-c1cbb2465aa6.MP4
+Content Type: video/mp4
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/VIDEO-2020-02-20-09-57-45.mp4
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\VIDEO-2020-02-20-09-57-45.mp4
+Content Type: video/mp4
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/C341F708-38EB-4D54-94D9-CC9403FD9D9B.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\C341F708-38EB-4D54-94D9-CC9403FD9D9B.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/B3C45661-4E2B-4BB1-BCAC-D25E56C7FBC4.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\B3C45661-4E2B-4BB1-BCAC-D25E56C7FBC4.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/9A162A26-449C-4B65-9027-97A7BF1818EB.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\9A162A26-449C-4B65-9027-97A7BF1818EB.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/A204C8C3-B6A4-4CAD-B9A2-6243464B23C1.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\A204C8C3-B6A4-4CAD-B9A2-6243464B23C1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/IMG_1209.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\IMG_1209.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/IMG_1206.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\IMG_1206.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/89FE64C8-1664-4EB8-8C6A-81A17B61665B.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\89FE64C8-1664-4EB8-8C6A-81A17B61665B.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/IMG_1204.JPG
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\IMG_1204.JPG
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-00-12-35.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-00-12-35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-00-12-29.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-00-12-29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-00-12-30.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-00-12-30.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-10-21-12.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-10-21-12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-10-21-14.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-10-21-14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-5/PHOTO-2020-02-20-09-57-46.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-5\PHOTO-2020-02-20-09-57-46.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/11.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\11.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/12.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\12.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/13.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\13.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/14.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\14.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/17.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\17.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/20.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\20.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/18.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\18.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/21.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\21.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/19.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\19.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/22.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\22.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/COVER.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\COVER.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/4.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/1.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/2.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2020-3-4/3.jpeg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2020-3-4\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191224/02.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191224\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191224/03.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191224\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191224/01.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191224\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191122/S__8617995_1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191122\S__8617995_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191122/S__8642563.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191122\S__8642563.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/_7505528.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\_7505528.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-10-25/SYM_MAXSYM_TL114.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-10-25\SYM_MAXSYM_TL114.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/20191108/3-days2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\20191108\3-days2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/gallery/2019/2019-11-08-NHX-Launch/IMG_2596.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\gallery\2019\2019-11-08-NHX-Launch\IMG_2596.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/gallery/2019/2019-11-08-NHX-Launch/IMG_2610.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\gallery\2019\2019-11-08-NHX-Launch\IMG_2610.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/gallery/2019/2019-11-08-NHX-Launch/IMG_2639.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\gallery\2019\2019-11-08-NHX-Launch\IMG_2639.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-5-EICMA/EICMA_20191105.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-5-EICMA\EICMA_20191105.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-1/2019-EICMA-Invitation2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-1\2019-EICMA-Invitation2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-1/EICMA-Press-release2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-1\EICMA-Press-release2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/2019EICMA-FREEDOM_191106_0003.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\2019EICMA-FREEDOM_191106_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/2019EICMA_191106_0006.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\2019EICMA_191106_0006.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/2019EICMA-ADVENTURE_191106_0014.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\2019EICMA-ADVENTURE_191106_0014.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/2019EICMA-FASHION_191106_0033.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\2019EICMA-FASHION_191106_0033.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/2019EICMA_eXPro.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\2019EICMA_eXPro.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-11-6/DRG_2019EICMA_191106_0007.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-11-6\DRG_2019EICMA_191106_0007.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-27/10.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-27\10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-02-18/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-02-18\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/2.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\2.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/3.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\3.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/4.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\4.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/5.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\5.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/6.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\6.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/10.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/11.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/12.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/e-scooter/13.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\e-scooter\13.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-11-07/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-11-07\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/2.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\2.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/3-1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\3-1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/4.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\4.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/5-1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\5-1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/6.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\6.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/7.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\7.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/8-1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\8-1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-31/10.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-31\10.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-01-26/5.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-01-26\5.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-03-03/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-03-03\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-03-03/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-03-03\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-03-03/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-03-03\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-03-03/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-03-03\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-29/1.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-29\1.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/10.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/11.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22-2/12.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22-2\12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/news-events-page81
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page81.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page80
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page80.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page79
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page79.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page77
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page77.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page76
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page76.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page75
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page75.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page74
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page74.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page73
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page73.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page72
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page72.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page5
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page5.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events-page4
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-page4.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/news-events?page=1
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\news-events-2.html
+Content Type: text/html
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-25/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-25\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-9/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-9\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-9/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-9\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-9/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-9\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-10-9/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-10-9\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-7-26/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-7-26\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-22/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-22\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-6-11/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-6-11\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-4-18/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-4-18\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-4-18/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-4-18\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-4-18/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-4-18\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-4-18/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-4-18\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-28/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-28\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-28/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-28\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-28/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-28\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-28/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-28\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-8/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-8\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-3-8/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-3-8\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/1.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/2.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/3.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/4.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/5.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/6.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/7.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/8.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2018-1-23/9.jpg
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2018-1-23\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sym-global.com/storage/system/news/2019-F2R.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-F2R.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-F2R-2.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-F2R-2.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-F2R-4.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-F2R-4.png
+Content Type: image/png
+
+Uri: http://www.sym-global.com/storage/system/news/2019-F2R-3.png
+File Name: C:\Users\fcp\Desktop\symglobal\www.sym-global.com\storage\system\news\2019-F2R-3.png
+Content Type: image/png
+
