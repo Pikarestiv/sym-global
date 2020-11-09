@@ -27995,7 +27995,8 @@ h2 {
     content: "";
     width: 0%;
     display: block;
-    border-bottom: 5px solid #e4002b;
+    /* border-bottom: 5px solid #e4002b; */
+    border-bottom: 5px solid #FF6A16;
     position: absolute;
     bottom: 6px;
     transition: 0.3s;
