@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+/*------------------------------------------------------------------
+Name: Master.css
+
+Project:	Blackair 
+Version:	1.1
+Last change:	21/05/2015 [fixed Float bug, vf]
+Assigned to:	Lithemes
+Primary use:	Salon Business
+
+all Css defined in this css  
+-------------------------------------------------------------------*/
+
+@import url("styles.css");
+@import url("bootstrap.css");
+@import url("datepicker.css");
+@import url("lightbox.css");
+@import url("menu.css");
+@import url("slick.css");
+@import url("animate.css");
+@import url("filtrablePortfolio.css");
+
+/* revolution slider */
+@import url("navigation.css");
+@import url("settings.css");
+@import url("layers.css");
+
